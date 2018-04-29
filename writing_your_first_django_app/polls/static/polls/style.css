@@ -1,0 +1,17 @@
+li a {
+	color: green;
+}
+
+body {
+	background-image: url("images/background.gif");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+ 	background-position: bottom right;
+}
+
+.auth_pane {
+	color: lightgray;
+	position: absolute;
+	right: 5px;
+	top: 5px;
+}
